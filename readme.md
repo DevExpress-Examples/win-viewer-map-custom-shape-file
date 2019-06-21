@@ -1,3 +1,6 @@
+_Files to view:_
+- [Form1.cs](https://github.com/DevExpress-Examples/win-viewer-map-custom-shape-file/blob/19.1.3%2B/CS/WindowsFormsMapCustomShape/Form1.cs)
+
 # How to Provide Custom Maps for Map Dashboard Items in WinForms
 
 The following example shows how to load a .shp file to provide a custom map for the Choropleth Map dashboard item.
