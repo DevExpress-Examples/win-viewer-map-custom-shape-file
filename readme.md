@@ -1,4 +1,7 @@
-# How to Custom Maps for Map Dashboard Item in WinForms Viewer
+_Files to view:_
+- [Form1.cs](https://github.com/DevExpress-Examples/win-viewer-map-custom-shape-file/blob/19.1.3%2B/CS/WindowsFormsMapCustomShape/Form1.cs)
+
+# How to Provide Custom Maps for Map Dashboard Items in WinForms
 
 The following example shows how to load a .shp file to provide a custom map for the Choropleth Map dashboard item.
 
@@ -18,4 +21,5 @@ Follow the steps below to load the existing shapefile in code:
 
 If you use the [CustomShapefile.Url](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CustomShapefile.Url) property to open a map, the dashboard XML definition will contain the path to a map shapefile. If you open the map with the [CustomShapefile.Data](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CustomShapefile.Data) property, the dashboard XML definition will contain the map itself.
 
-See [Custom Maps](https://docs.devexpress.com/Dashboard/16478/create-dashboards/create-dashboards-in-the-winforms-designer/designing-dashboard-items/choropleth-map/providing-maps#custom-maps) for details.
+## See Also
+- [Custom Maps](https://docs.devexpress.com/Dashboard/16478/create-dashboards/create-dashboards-in-the-winforms-designer/designing-dashboard-items/choropleth-map/providing-maps#custom-maps)
