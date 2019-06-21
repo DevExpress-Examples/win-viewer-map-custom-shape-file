@@ -1,4 +1,4 @@
-# How to Custom Maps for Map Dashboard Item in WinForms Viewer
+# How to Provide Custom Maps for Map Dashboard Items in WinForms
 
 The following example shows how to load a .shp file to provide a custom map for the Choropleth Map dashboard item.
 
