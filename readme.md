@@ -2,7 +2,7 @@
 
 The following example shows how to load a .shp file to provide a custom map for the Choropleth Map dashboard item.
 
-![](img\map.png)
+![](img/map.png)
 
 DevExpress Dashboard uses a **Shapefile** vector format to provide custom maps. Commonly, this format includes two file types:
 
