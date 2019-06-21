@@ -18,4 +18,5 @@ Follow the steps below to load the existing shapefile in code:
 
 If you use the [CustomShapefile.Url](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CustomShapefile.Url) property to open a map, the dashboard XML definition will contain the path to a map shapefile. If you open the map with the [CustomShapefile.Data](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CustomShapefile.Data) property, the dashboard XML definition will contain the map itself.
 
-See [Custom Maps](https://docs.devexpress.com/Dashboard/16478/create-dashboards/create-dashboards-in-the-winforms-designer/designing-dashboard-items/choropleth-map/providing-maps#custom-maps) for details.
+## See Also
+- [Custom Maps](https://docs.devexpress.com/Dashboard/16478/create-dashboards/create-dashboards-in-the-winforms-designer/designing-dashboard-items/choropleth-map/providing-maps#custom-maps)
