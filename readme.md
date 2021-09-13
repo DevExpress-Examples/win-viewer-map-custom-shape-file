@@ -42,5 +42,5 @@ If you use the [CustomShapefile.Url](https://docs.devexpress.com/Dashboard/DevEx
 - [Dashboard for WinForms - Customize Map Item Popup Menu to Load Shape Files](https://github.com/DevExpress-Examples/dashboard-designer-how-to-import-shape-files-into-map-items-using-openfiledialog-t567206)
 - [Dashboard for WinForms - Bind a Choropleth Map Dashboard Item to Data at Runtime](https://github.com/DevExpress-Examples/how-to-bind-a-choropleth-map-dashboard-item-to-data-in-code-e5010)
 - [Dashboard for WinForms - Bind a Pie Map Dashboard Item to Data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-map-dashboard-item-to-data-in-code-t119627)
-- [Dashboard for WinForms - Bind a Bubble Map Dashboard Item to Data in code](how-to-bind-a-bubble-map-dashboard-item-to-data-and-customize-its-palette-t119682)
+- [Dashboard for WinForms - Bind a Bubble Map Dashboard Item to Data in code](https://github.com/DevExpress-Examples/how-to-bind-a-bubble-map-dashboard-item-to-data-and-customize-its-palette-t119682)
 - [Dashboard for WinForms - Bind a Geo Point Map Dashboard Item to Data at Runtime](https://github.com/DevExpress-Examples/how-to-bind-a-geo-point-map-dashboard-item-to-data-in-code-e5036)
