@@ -44,7 +44,7 @@ If you use the [CustomShapefile.Url](https://docs.devexpress.com/Dashboard/DevEx
 - [Dashboard for WinForms - Bind a Bubble Map Dashboard Item to Data in code](https://github.com/DevExpress-Examples/how-to-bind-a-bubble-map-dashboard-item-to-data-and-customize-its-palette-t119682)
 - [Dashboard for WinForms - Bind a Geo Point Map Dashboard Item to Data at Runtime](https://github.com/DevExpress-Examples/how-to-bind-a-geo-point-map-dashboard-item-to-data-in-code-e5036)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=win-viewer-map-custom-shape-file&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=win-viewer-map-custom-shape-file&~~~was_helpful=no)
 
